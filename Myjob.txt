@@ -1,26 +1,35 @@
 IT support
 พนักงานไอที
-IT Support (Software)
 Haier Electrical Appliances (Thailand) Company Limited
-Huai Khwang
+บริษัท ไฮเออร์ อิเล็คทริค เอพเพอร์ตี้ส์ (ประเทศไทย) จำกัด
+Huai Khwang 
+ห้วยขวาง
 
-New Software System Support
+New Software System Support 
+รองรับระบบซอฟต์แวร์ใหม่ คือ
 CRM, ERP, SAP, WMS, TMS, SQL
 
 Responsibilities:
 หน้าที่รับผิดชอบ
 1.Design & conduct system testing, and support User Acceptance Testing (UAT).
+ออกแบบและดำเนินการทดสอบระบบ และสนับสนุนการทดสอบผู้ใช้ (UAT)
 2.Present regular project updates to IT manage as appropriate, throughout the project lifecycle
+นำเสนอการอัปเดตโปรเจ็กต์เป็นประจำเพื่อให้ฝ่ายไอทีจัดการตามความเหมาะสมของโปรเจ็กต์
 3.Proactively identify and assess risk and escalate to the IT manager as required
-
+ระบุและประเมินความเสี่ยงในเชิงรุกและส่งต่อไปยังผู้จัดการไอทีตามความจำเป็น
 Skills Requirement:
 คุณสมบัติที่ต้องการ
 1.Experience in CRM, ERP, SAP, WMS, TMS
+มีประสบการณ์ในการใช้โปรแกรม CRM, ERP, SAP, WMS, TMS
 2.Experience in Microsoft products such as Power Apps
+มีประสบการณ์ในการใช้ Microsoft เช่น Power Apps
 3.Experience in SQL query will be advantage
-
+หากมีประสบการณ์ในการใช้ SQL จะได้รับการพิจารณาเป็นพิเศษ
 Qualifications:
-คุณสมบัติ
-1.Minimum 2 years experiences in software system support in CRM, ERP, 
+คุณสมบัติที่บริษัทต้องการ
+1.Minimum 2 years experiences in software system support in CRM, ERP,
+ประสบการณ์อย่างน้อย 2 ปีในการสนับสนุนระบบซอฟต์แวร์ใน CRM, ERP, 
 2.Strong interpersonal communication and relationship-building skills
+ทักษะการสื่อสารระหว่างบุคคลได้ดีและทักษะการสร้างความสัมพันธ์
 3.Good in English (reading/writing/listening/speaking)
+สามารถใช้ภาษาอังกฤษได้ดี (อ่าน/เขียน/ฟัง/พูด)
